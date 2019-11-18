@@ -1,3 +1,4 @@
 #ignore scss files
 scss/
 .idea/
+css/vars.css
